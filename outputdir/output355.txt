@@ -1,0 +1,89 @@
+{
+	"songtitle": "No Vaseline",
+	"artist": "Ice Cube",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone", 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 0.26313, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Disgust", 
+          "score": 0.448398, 
+          "tone_id": "disgust"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 0.108977, 
+          "tone_id": "fear"
+        }, 
+        {
+          "tone_name": "Joy", 
+          "score": 0.043133, 
+          "tone_id": "joy"
+        }, 
+        {
+          "tone_name": "Sadness", 
+          "score": 0.502759, 
+          "tone_id": "sadness"
+        }
+      ], 
+      "category_name": "Emotion Tone"
+    }, 
+    {
+      "category_id": "language_tone", 
+      "tones": [
+        {
+          "tone_name": "Analytical", 
+          "score": 0.0, 
+          "tone_id": "analytical"
+        }, 
+        {
+          "tone_name": "Confident", 
+          "score": 0.0, 
+          "tone_id": "confident"
+        }, 
+        {
+          "tone_name": "Tentative", 
+          "score": 0.106229, 
+          "tone_id": "tentative"
+        }
+      ], 
+      "category_name": "Language Tone"
+    }, 
+    {
+      "category_id": "social_tone", 
+      "tones": [
+        {
+          "tone_name": "Openness", 
+          "score": 0.63665, 
+          "tone_id": "openness_big5"
+        }, 
+        {
+          "tone_name": "Conscientiousness", 
+          "score": 0.397395, 
+          "tone_id": "conscientiousness_big5"
+        }, 
+        {
+          "tone_name": "Extraversion", 
+          "score": 0.873225, 
+          "tone_id": "extraversion_big5"
+        }, 
+        {
+          "tone_name": "Agreeableness", 
+          "score": 0.406975, 
+          "tone_id": "agreeableness_big5"
+        }, 
+        {
+          "tone_name": "Emotional Range", 
+          "score": 0.7863, 
+          "tone_id": "emotional_range_big5"
+        }
+      ], 
+      "category_name": "Social Tone"
+    }
+  ]
+}
