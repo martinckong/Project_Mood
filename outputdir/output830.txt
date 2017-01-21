@@ -1,0 +1,89 @@
+{
+	"songtitle": "All We Know",
+	"artist": "The Chainsmokers",
+  "tone_categories": [
+    {
+      "tones": [
+        {
+          "tone_name": "Anger",
+          "tone_id": "anger",
+          "score": 0.219261
+        },
+        {
+          "tone_name": "Disgust",
+          "tone_id": "disgust",
+          "score": 0.175905
+        },
+        {
+          "tone_name": "Fear",
+          "tone_id": "fear",
+          "score": 0.205087
+        },
+        {
+          "tone_name": "Joy",
+          "tone_id": "joy",
+          "score": 0.381501
+        },
+        {
+          "tone_name": "Sadness",
+          "tone_id": "sadness",
+          "score": 0.198356
+        }
+      ],
+      "category_name": "Emotion Tone",
+      "category_id": "emotion_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Analytical",
+          "tone_id": "analytical",
+          "score": 0.669047
+        },
+        {
+          "tone_name": "Confident",
+          "tone_id": "confident",
+          "score": 0.919269
+        },
+        {
+          "tone_name": "Tentative",
+          "tone_id": "tentative",
+          "score": 0.0
+        }
+      ],
+      "category_name": "Language Tone",
+      "category_id": "language_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Openness",
+          "tone_id": "openness_big5",
+          "score": 0.291347
+        },
+        {
+          "tone_name": "Conscientiousness",
+          "tone_id": "conscientiousness_big5",
+          "score": 0.712168
+        },
+        {
+          "tone_name": "Extraversion",
+          "tone_id": "extraversion_big5",
+          "score": 0.814073
+        },
+        {
+          "tone_name": "Agreeableness",
+          "tone_id": "agreeableness_big5",
+          "score": 0.790739
+        },
+        {
+          "tone_name": "Emotional Range",
+          "tone_id": "emotional_range_big5",
+          "score": 0.505475
+        }
+      ],
+      "category_name": "Social Tone",
+      "category_id": "social_tone"
+    }
+  ]
+}

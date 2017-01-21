@@ -1,0 +1,89 @@
+{
+	"songtitle": "The Spiteful Chant",
+	"artist": "Kendrick Lamar",
+  "tone_categories": [
+    {
+      "tones": [
+        {
+          "tone_name": "Anger",
+          "tone_id": "anger",
+          "score": 0.854991
+        },
+        {
+          "tone_name": "Disgust",
+          "tone_id": "disgust",
+          "score": 0.111132
+        },
+        {
+          "tone_name": "Fear",
+          "tone_id": "fear",
+          "score": 0.007094
+        },
+        {
+          "tone_name": "Joy",
+          "tone_id": "joy",
+          "score": 0.000152
+        },
+        {
+          "tone_name": "Sadness",
+          "tone_id": "sadness",
+          "score": 0.22979
+        }
+      ],
+      "category_name": "Emotion Tone",
+      "category_id": "emotion_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Analytical",
+          "tone_id": "analytical",
+          "score": 0.0
+        },
+        {
+          "tone_name": "Confident",
+          "tone_id": "confident",
+          "score": 0.0
+        },
+        {
+          "tone_name": "Tentative",
+          "tone_id": "tentative",
+          "score": 0.697764
+        }
+      ],
+      "category_name": "Language Tone",
+      "category_id": "language_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Openness",
+          "tone_id": "openness_big5",
+          "score": 0.497858
+        },
+        {
+          "tone_name": "Conscientiousness",
+          "tone_id": "conscientiousness_big5",
+          "score": 0.213127
+        },
+        {
+          "tone_name": "Extraversion",
+          "tone_id": "extraversion_big5",
+          "score": 0.602175
+        },
+        {
+          "tone_name": "Agreeableness",
+          "tone_id": "agreeableness_big5",
+          "score": 0.282731
+        },
+        {
+          "tone_name": "Emotional Range",
+          "tone_id": "emotional_range_big5",
+          "score": 0.272029
+        }
+      ],
+      "category_name": "Social Tone",
+      "category_id": "social_tone"
+    }
+  ]
+}

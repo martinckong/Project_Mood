@@ -1,0 +1,89 @@
+{
+	"songtitle": "Blow My High (Members Only)",
+	"artist": "Kendrick Lamar",
+  "tone_categories": [
+    {
+      "tones": [
+        {
+          "tone_name": "Anger",
+          "tone_id": "anger",
+          "score": 0.263551
+        },
+        {
+          "tone_name": "Disgust",
+          "tone_id": "disgust",
+          "score": 0.130877
+        },
+        {
+          "tone_name": "Fear",
+          "tone_id": "fear",
+          "score": 0.606814
+        },
+        {
+          "tone_name": "Joy",
+          "tone_id": "joy",
+          "score": 0.001533
+        },
+        {
+          "tone_name": "Sadness",
+          "tone_id": "sadness",
+          "score": 0.196296
+        }
+      ],
+      "category_name": "Emotion Tone",
+      "category_id": "emotion_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Analytical",
+          "tone_id": "analytical",
+          "score": 0.0
+        },
+        {
+          "tone_name": "Confident",
+          "tone_id": "confident",
+          "score": 0.594134
+        },
+        {
+          "tone_name": "Tentative",
+          "tone_id": "tentative",
+          "score": 0.0
+        }
+      ],
+      "category_name": "Language Tone",
+      "category_id": "language_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Openness",
+          "tone_id": "openness_big5",
+          "score": 0.542383
+        },
+        {
+          "tone_name": "Conscientiousness",
+          "tone_id": "conscientiousness_big5",
+          "score": 0.535761
+        },
+        {
+          "tone_name": "Extraversion",
+          "tone_id": "extraversion_big5",
+          "score": 0.88155
+        },
+        {
+          "tone_name": "Agreeableness",
+          "tone_id": "agreeableness_big5",
+          "score": 0.379129
+        },
+        {
+          "tone_name": "Emotional Range",
+          "tone_id": "emotional_range_big5",
+          "score": 0.600667
+        }
+      ],
+      "category_name": "Social Tone",
+      "category_id": "social_tone"
+    }
+  ]
+}

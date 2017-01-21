@@ -1,0 +1,89 @@
+{
+	"songtitle": "Flashing Lights",
+	"artist": "Kanye West",
+  "tone_categories": [
+    {
+      "category_name": "Emotion Tone",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.115351,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "disgust",
+          "score": 0.053029,
+          "tone_name": "Disgust"
+        },
+        {
+          "tone_id": "fear",
+          "score": 0.176861,
+          "tone_name": "Fear"
+        },
+        {
+          "tone_id": "joy",
+          "score": 0.149,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "sadness",
+          "score": 0.558511,
+          "tone_name": "Sadness"
+        }
+      ],
+      "category_id": "emotion_tone"
+    },
+    {
+      "category_name": "Language Tone",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.947655,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.447464,
+          "tone_name": "Confident"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.0,
+          "tone_name": "Tentative"
+        }
+      ],
+      "category_id": "language_tone"
+    },
+    {
+      "category_name": "Social Tone",
+      "tones": [
+        {
+          "tone_id": "openness_big5",
+          "score": 0.142717,
+          "tone_name": "Openness"
+        },
+        {
+          "tone_id": "conscientiousness_big5",
+          "score": 0.59811,
+          "tone_name": "Conscientiousness"
+        },
+        {
+          "tone_id": "extraversion_big5",
+          "score": 0.721202,
+          "tone_name": "Extraversion"
+        },
+        {
+          "tone_id": "agreeableness_big5",
+          "score": 0.67473,
+          "tone_name": "Agreeableness"
+        },
+        {
+          "tone_id": "emotional_range_big5",
+          "score": 0.647995,
+          "tone_name": "Emotional Range"
+        }
+      ],
+      "category_id": "social_tone"
+    }
+  ]
+}

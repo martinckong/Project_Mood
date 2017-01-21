@@ -1,0 +1,89 @@
+{
+	"songtitle": "Work Bitch",
+	"artist": "Britney Spears",
+  "tone_categories": [
+    {
+      "tones": [
+        {
+          "tone_name": "Anger",
+          "tone_id": "anger",
+          "score": 0.461034
+        },
+        {
+          "tone_name": "Disgust",
+          "tone_id": "disgust",
+          "score": 0.11041
+        },
+        {
+          "tone_name": "Fear",
+          "tone_id": "fear",
+          "score": 0.401184
+        },
+        {
+          "tone_name": "Joy",
+          "tone_id": "joy",
+          "score": 0.474416
+        },
+        {
+          "tone_name": "Sadness",
+          "tone_id": "sadness",
+          "score": 0.272194
+        }
+      ],
+      "category_name": "Emotion Tone",
+      "category_id": "emotion_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Analytical",
+          "tone_id": "analytical",
+          "score": 0.0
+        },
+        {
+          "tone_name": "Confident",
+          "tone_id": "confident",
+          "score": 0.0
+        },
+        {
+          "tone_name": "Tentative",
+          "tone_id": "tentative",
+          "score": 0.467551
+        }
+      ],
+      "category_name": "Language Tone",
+      "category_id": "language_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Openness",
+          "tone_id": "openness_big5",
+          "score": 0.101249
+        },
+        {
+          "tone_name": "Conscientiousness",
+          "tone_id": "conscientiousness_big5",
+          "score": 0.91499
+        },
+        {
+          "tone_name": "Extraversion",
+          "tone_id": "extraversion_big5",
+          "score": 0.762529
+        },
+        {
+          "tone_name": "Agreeableness",
+          "tone_id": "agreeableness_big5",
+          "score": 0.411037
+        },
+        {
+          "tone_name": "Emotional Range",
+          "tone_id": "emotional_range_big5",
+          "score": 0.848633
+        }
+      ],
+      "category_name": "Social Tone",
+      "category_id": "social_tone"
+    }
+  ]
+}

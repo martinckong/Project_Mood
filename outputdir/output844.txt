@@ -1,0 +1,89 @@
+{
+	"songtitle": "She's Min",
+	"artist": "Pt. 1 ",
+  "tone_categories": [
+    {
+      "tones": [
+        {
+          "tone_name": "Anger",
+          "tone_id": "anger",
+          "score": 0.031342
+        },
+        {
+          "tone_name": "Disgust",
+          "tone_id": "disgust",
+          "score": 0.002452
+        },
+        {
+          "tone_name": "Fear",
+          "tone_id": "fear",
+          "score": 0.221339
+        },
+        {
+          "tone_name": "Joy",
+          "tone_id": "joy",
+          "score": 0.555561
+        },
+        {
+          "tone_name": "Sadness",
+          "tone_id": "sadness",
+          "score": 0.165548
+        }
+      ],
+      "category_name": "Emotion Tone",
+      "category_id": "emotion_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Analytical",
+          "tone_id": "analytical",
+          "score": 0.899947
+        },
+        {
+          "tone_name": "Confident",
+          "tone_id": "confident",
+          "score": 0.0
+        },
+        {
+          "tone_name": "Tentative",
+          "tone_id": "tentative",
+          "score": 0.732091
+        }
+      ],
+      "category_name": "Language Tone",
+      "category_id": "language_tone"
+    },
+    {
+      "tones": [
+        {
+          "tone_name": "Openness",
+          "tone_id": "openness_big5",
+          "score": 0.271401
+        },
+        {
+          "tone_name": "Conscientiousness",
+          "tone_id": "conscientiousness_big5",
+          "score": 0.565727
+        },
+        {
+          "tone_name": "Extraversion",
+          "tone_id": "extraversion_big5",
+          "score": 0.366856
+        },
+        {
+          "tone_name": "Agreeableness",
+          "tone_id": "agreeableness_big5",
+          "score": 0.982546
+        },
+        {
+          "tone_name": "Emotional Range",
+          "tone_id": "emotional_range_big5",
+          "score": 0.053712
+        }
+      ],
+      "category_name": "Social Tone",
+      "category_id": "social_tone"
+    }
+  ]
+}

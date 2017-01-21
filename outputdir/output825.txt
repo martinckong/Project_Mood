@@ -1,0 +1,3 @@
+{
+	"songtitle": "Ghetto Symphony",
+	"artist": "A$AP Rocky",
