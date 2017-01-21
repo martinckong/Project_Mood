@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    h1.
+        Song List
+    ul
+        each song, i in tonevalues
+            li
+              p=song.Song
+              p=song.Artist
+              p=song.Fear
+              p=song.Anger
+              p=song.Disgust
+              p=song.Sadness
+              p=song.Joy

@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    h1= title
+    form#formAddUser(name="addsong",method="post",action="/addSong")
+        input#inputSong(type="text", placeholder="Song", name="Song")
+        input#inputArtist(type="text", placeholder="Artist", name="Artist")
+        input#inputFear(type="text", placeholder="Fear", name="Fear")
+        input#inputDisgust(type="text", placeholder="Disgust", name="Disgust")
+        input#inputSadness(type="text", placeholder="Sadness", name="Sadness")
+        input#inputJoy(type="text", placeholder="Joy", name="Joy")
+        input#inputAnger(type="text", placeholder="Anger", name="Anger")
+
+        button#btnSubmit(type="submit") submit
