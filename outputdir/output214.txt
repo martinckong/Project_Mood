@@ -1,0 +1,89 @@
+{
+	"songtitle": "Rich As Fuck",
+	"artist": "Lil Wayne",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone",
+      "category_name": "Emotion Tone",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.225817,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "disgust",
+          "score": 0.133613,
+          "tone_name": "Disgust"
+        },
+        {
+          "tone_id": "fear",
+          "score": 0.070269,
+          "tone_name": "Fear"
+        },
+        {
+          "tone_id": "joy",
+          "score": 0.104611,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "sadness",
+          "score": 0.537482,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "category_id": "language_tone",
+      "category_name": "Language Tone",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.0,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.655494,
+          "tone_name": "Confident"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.0,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "category_id": "social_tone",
+      "category_name": "Social Tone",
+      "tones": [
+        {
+          "tone_id": "openness_big5",
+          "score": 0.797832,
+          "tone_name": "Openness"
+        },
+        {
+          "tone_id": "conscientiousness_big5",
+          "score": 0.514683,
+          "tone_name": "Conscientiousness"
+        },
+        {
+          "tone_id": "extraversion_big5",
+          "score": 0.800396,
+          "tone_name": "Extraversion"
+        },
+        {
+          "tone_id": "agreeableness_big5",
+          "score": 0.225016,
+          "tone_name": "Agreeableness"
+        },
+        {
+          "tone_id": "emotional_range_big5",
+          "score": 0.688382,
+          "tone_name": "Emotional Range"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+	"songtitle": "No Flockin",
+	"artist": "Kodak Black",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone",
+      "category_name": "Emotion Tone",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.257618,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "disgust",
+          "score": 0.168493,
+          "tone_name": "Disgust"
+        },
+        {
+          "tone_id": "fear",
+          "score": 0.057194,
+          "tone_name": "Fear"
+        },
+        {
+          "tone_id": "joy",
+          "score": 0.074092,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "sadness",
+          "score": 0.563745,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "category_id": "language_tone",
+      "category_name": "Language Tone",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.0,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.0,
+          "tone_name": "Confident"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.756922,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "category_id": "social_tone",
+      "category_name": "Social Tone",
+      "tones": [
+        {
+          "tone_id": "openness_big5",
+          "score": 0.29194,
+          "tone_name": "Openness"
+        },
+        {
+          "tone_id": "conscientiousness_big5",
+          "score": 0.341532,
+          "tone_name": "Conscientiousness"
+        },
+        {
+          "tone_id": "extraversion_big5",
+          "score": 0.968142,
+          "tone_name": "Extraversion"
+        },
+        {
+          "tone_id": "agreeableness_big5",
+          "score": 0.632943,
+          "tone_name": "Agreeableness"
+        },
+        {
+          "tone_id": "emotional_range_big5",
+          "score": 0.509274,
+          "tone_name": "Emotional Range"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+	"songtitle": "Feel No Ways",
+	"artist": "Drake",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone",
+      "category_name": "Emotion Tone",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.54536,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "disgust",
+          "score": 0.022354,
+          "tone_name": "Disgust"
+        },
+        {
+          "tone_id": "fear",
+          "score": 0.135213,
+          "tone_name": "Fear"
+        },
+        {
+          "tone_id": "joy",
+          "score": 0.066903,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "sadness",
+          "score": 0.283414,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "category_id": "language_tone",
+      "category_name": "Language Tone",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.0,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.0,
+          "tone_name": "Confident"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.84639,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "category_id": "social_tone",
+      "category_name": "Social Tone",
+      "tones": [
+        {
+          "tone_id": "openness_big5",
+          "score": 0.209541,
+          "tone_name": "Openness"
+        },
+        {
+          "tone_id": "conscientiousness_big5",
+          "score": 0.260796,
+          "tone_name": "Conscientiousness"
+        },
+        {
+          "tone_id": "extraversion_big5",
+          "score": 0.578216,
+          "tone_name": "Extraversion"
+        },
+        {
+          "tone_id": "agreeableness_big5",
+          "score": 0.858907,
+          "tone_name": "Agreeableness"
+        },
+        {
+          "tone_id": "emotional_range_big5",
+          "score": 0.462443,
+          "tone_name": "Emotional Range"
+        }
+      ]
+    }
+  ]
+}
