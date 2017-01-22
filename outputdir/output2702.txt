@@ -1,0 +1,89 @@
+{
+	"songtitle": "Mozart vs Skrillex",
+	"artist": "Nice Peter & EpicLLOYD",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone", 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 0.501174, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Disgust", 
+          "score": 0.152517, 
+          "tone_id": "disgust"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 0.128884, 
+          "tone_id": "fear"
+        }, 
+        {
+          "tone_name": "Joy", 
+          "score": 0.196735, 
+          "tone_id": "joy"
+        }, 
+        {
+          "tone_name": "Sadness", 
+          "score": 0.441325, 
+          "tone_id": "sadness"
+        }
+      ], 
+      "category_name": "Emotion Tone"
+    }, 
+    {
+      "category_id": "language_tone", 
+      "tones": [
+        {
+          "tone_name": "Analytical", 
+          "score": 0.000357, 
+          "tone_id": "analytical"
+        }, 
+        {
+          "tone_name": "Confident", 
+          "score": 0.0, 
+          "tone_id": "confident"
+        }, 
+        {
+          "tone_name": "Tentative", 
+          "score": 0.549238, 
+          "tone_id": "tentative"
+        }
+      ], 
+      "category_name": "Language Tone"
+    }, 
+    {
+      "category_id": "social_tone", 
+      "tones": [
+        {
+          "tone_name": "Openness", 
+          "score": 0.407007, 
+          "tone_id": "openness_big5"
+        }, 
+        {
+          "tone_name": "Conscientiousness", 
+          "score": 5e-06, 
+          "tone_id": "conscientiousness_big5"
+        }, 
+        {
+          "tone_name": "Extraversion", 
+          "score": 0.530862, 
+          "tone_id": "extraversion_big5"
+        }, 
+        {
+          "tone_name": "Agreeableness", 
+          "score": 0.1296, 
+          "tone_id": "agreeableness_big5"
+        }, 
+        {
+          "tone_name": "Emotional Range", 
+          "score": 0.316003, 
+          "tone_id": "emotional_range_big5"
+        }
+      ], 
+      "category_name": "Social Tone"
+    }
+  ]
+}
