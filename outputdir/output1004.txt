@@ -1,0 +1,89 @@
+{
+	"songtitle": "Six Feet Under",
+	"artist": "The Weeknd",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone", 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 0.380739, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Disgust", 
+          "score": 0.18006, 
+          "tone_id": "disgust"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 0.353726, 
+          "tone_id": "fear"
+        }, 
+        {
+          "tone_name": "Joy", 
+          "score": 0.001485, 
+          "tone_id": "joy"
+        }, 
+        {
+          "tone_name": "Sadness", 
+          "score": 0.211651, 
+          "tone_id": "sadness"
+        }
+      ], 
+      "category_name": "Emotion Tone"
+    }, 
+    {
+      "category_id": "language_tone", 
+      "tones": [
+        {
+          "tone_name": "Analytical", 
+          "score": 0.0, 
+          "tone_id": "analytical"
+        }, 
+        {
+          "tone_name": "Confident", 
+          "score": 0.0, 
+          "tone_id": "confident"
+        }, 
+        {
+          "tone_name": "Tentative", 
+          "score": 0.782533, 
+          "tone_id": "tentative"
+        }
+      ], 
+      "category_name": "Language Tone"
+    }, 
+    {
+      "category_id": "social_tone", 
+      "tones": [
+        {
+          "tone_name": "Openness", 
+          "score": 0.651095, 
+          "tone_id": "openness_big5"
+        }, 
+        {
+          "tone_name": "Conscientiousness", 
+          "score": 0.024691, 
+          "tone_id": "conscientiousness_big5"
+        }, 
+        {
+          "tone_name": "Extraversion", 
+          "score": 0.447437, 
+          "tone_id": "extraversion_big5"
+        }, 
+        {
+          "tone_name": "Agreeableness", 
+          "score": 0.308193, 
+          "tone_id": "agreeableness_big5"
+        }, 
+        {
+          "tone_name": "Emotional Range", 
+          "score": 0.331378, 
+          "tone_id": "emotional_range_big5"
+        }
+      ], 
+      "category_name": "Social Tone"
+    }
+  ]
+}
