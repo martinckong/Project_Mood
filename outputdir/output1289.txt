@@ -1,0 +1,89 @@
+{
+	"songtitle": "Going Jimmer",
+	"artist": "Sid",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone", 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 0.832922, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Disgust", 
+          "score": 0.113761, 
+          "tone_id": "disgust"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 0.117222, 
+          "tone_id": "fear"
+        }, 
+        {
+          "tone_name": "Joy", 
+          "score": 0.000487, 
+          "tone_id": "joy"
+        }, 
+        {
+          "tone_name": "Sadness", 
+          "score": 0.146362, 
+          "tone_id": "sadness"
+        }
+      ], 
+      "category_name": "Emotion Tone"
+    }, 
+    {
+      "category_id": "language_tone", 
+      "tones": [
+        {
+          "tone_name": "Analytical", 
+          "score": 0.0, 
+          "tone_id": "analytical"
+        }, 
+        {
+          "tone_name": "Confident", 
+          "score": 0.0, 
+          "tone_id": "confident"
+        }, 
+        {
+          "tone_name": "Tentative", 
+          "score": 0.476912, 
+          "tone_id": "tentative"
+        }
+      ], 
+      "category_name": "Language Tone"
+    }, 
+    {
+      "category_id": "social_tone", 
+      "tones": [
+        {
+          "tone_name": "Openness", 
+          "score": 0.711881, 
+          "tone_id": "openness_big5"
+        }, 
+        {
+          "tone_name": "Conscientiousness", 
+          "score": 0.003002, 
+          "tone_id": "conscientiousness_big5"
+        }, 
+        {
+          "tone_name": "Extraversion", 
+          "score": 0.584958, 
+          "tone_id": "extraversion_big5"
+        }, 
+        {
+          "tone_name": "Agreeableness", 
+          "score": 0.038324, 
+          "tone_id": "agreeableness_big5"
+        }, 
+        {
+          "tone_name": "Emotional Range", 
+          "score": 0.255755, 
+          "tone_id": "emotional_range_big5"
+        }
+      ], 
+      "category_name": "Social Tone"
+    }
+  ]
+}
