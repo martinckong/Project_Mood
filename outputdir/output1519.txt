@@ -1,0 +1,89 @@
+{
+	"songtitle": "Blessings (Reprise)",
+	"artist": "Chance The Rapper",
+  "tone_categories": [
+    {
+      "category_id": "emotion_tone", 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 0.066209, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Disgust", 
+          "score": 0.036509, 
+          "tone_id": "disgust"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 0.146785, 
+          "tone_id": "fear"
+        }, 
+        {
+          "tone_name": "Joy", 
+          "score": 0.608559, 
+          "tone_id": "joy"
+        }, 
+        {
+          "tone_name": "Sadness", 
+          "score": 0.060107, 
+          "tone_id": "sadness"
+        }
+      ], 
+      "category_name": "Emotion Tone"
+    }, 
+    {
+      "category_id": "language_tone", 
+      "tones": [
+        {
+          "tone_name": "Analytical", 
+          "score": 0.05712, 
+          "tone_id": "analytical"
+        }, 
+        {
+          "tone_name": "Confident", 
+          "score": 0.0, 
+          "tone_id": "confident"
+        }, 
+        {
+          "tone_name": "Tentative", 
+          "score": 0.177455, 
+          "tone_id": "tentative"
+        }
+      ], 
+      "category_name": "Language Tone"
+    }, 
+    {
+      "category_id": "social_tone", 
+      "tones": [
+        {
+          "tone_name": "Openness", 
+          "score": 0.429775, 
+          "tone_id": "openness_big5"
+        }, 
+        {
+          "tone_name": "Conscientiousness", 
+          "score": 0.995175, 
+          "tone_id": "conscientiousness_big5"
+        }, 
+        {
+          "tone_name": "Extraversion", 
+          "score": 0.94381, 
+          "tone_id": "extraversion_big5"
+        }, 
+        {
+          "tone_name": "Agreeableness", 
+          "score": 0.903128, 
+          "tone_id": "agreeableness_big5"
+        }, 
+        {
+          "tone_name": "Emotional Range", 
+          "score": 0.871386, 
+          "tone_id": "emotional_range_big5"
+        }
+      ], 
+      "category_name": "Social Tone"
+    }
+  ]
+}
